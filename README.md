@@ -22,3 +22,12 @@ SALON REVIEWS:"I had the best experience at [Salon Name]! The staff was friendly
 "I had a fantastic massage at [Salon Name]. The therapist was very skilled and really knew how to work out the knots in my back. The atmosphere was also very peaceful and relaxing. I left feeling rejuvenated and stress-free. I will definitely be back for more massages in the future!" - David M.
 "I had a mani-pedi at [Salon Name] and it was fantastic! The staff were so friendly and the nail technician did a great job. The salon is also very clean and well-maintained. I would definitely recommend this salon for all your nail care needs." - Amy B.
 "I had a great experience at [Salon Name]. The stylist did an amazing job on my highlights and cut. The staff were friendly and helpful, and the salon was clean and professional.
+
+
+king's summary:HTML forms and interactive elements are used to create user-interactive elements within web pages. These elements allow users to input data, make selections, and perform actions on a web page. Here are some commonly used HTML forms and interactive elements:
+<form>: The form element is used to create an HTML form for collecting user input. It can include various input elements, such as text fields, radio buttons, and drop-down menus.
+<input>: The input element is used to create various types of input fields, such as text fields, password fields, radio buttons, checkboxes, and file upload fields.
+<select>: The select element is used to create a drop-down menu, allowing users to select one option from a list.
+<button>: The button element is used to create a button that triggers an action when clicked.
+<label>: The label element is used to create a label for an input element, providing a description or instructions for the user.
+<textarea>: The textarea element is used to create a multi-line text input field, allowing users to enter large amounts of text.
