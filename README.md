@@ -31,3 +31,29 @@ king's summary:HTML forms and interactive elements are used to create user-inter
 <button>: The button element is used to create a button that triggers an action when clicked.
 <label>: The label element is used to create a label for an input element, providing a description or instructions for the user.
 <textarea>: The textarea element is used to create a multi-line text input field, allowing users to enter large amounts of text.
+
+ <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Personal Portifolio Website - NONKOLISO MATIWANE</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="header">
+            <div class="container">
+                <nav>
+                    <img src="image2.jpg" class="logo">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Portifolio</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+                <div class="header-text">
+                    <p>software developer</p>
+                    <h1>Hi, I'm<span> Nonkoliso</span><br> Matiwane From Eastern cape</h1>
+                </div>
+            </div>
